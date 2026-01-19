@@ -4,7 +4,7 @@
 ## Step-by-Step Event Flow
 
 ### **Step 1: Stock Data Generation**
-A Python script acts as the data producer and fetches or simulates real-time stock market data.
+A Python script acts as the data producer and fetches or simulates real-time stock market data from yfinance.
 
 - Data includes fields such as:
   - stock symbol
