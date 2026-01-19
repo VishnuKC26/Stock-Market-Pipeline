@@ -1,4 +1,7 @@
 --
+## Architecture Diagram
+
+<img width="576" height="373" alt="architecture-diagram" src="https://github.com/user-attachments/assets/1b991bd5-3a0e-408e-93a4-0697168b1975" />
 
 ## 🧰 AWS Services Used
 
